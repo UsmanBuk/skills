@@ -21,8 +21,10 @@ npx skills add UsmanBuk/skills --skill bugfix
 Or copy a skill folder directly into your agent's skills directory
 (`~/.claude/skills/`, `~/.codex/skills/`, `~/.agents/skills/`).
 
-Install counts show up on [skills.sh/UsmanBuk/skills](https://skills.sh/UsmanBuk/skills)
-— the `skills` CLI reports anonymous installs there (opt out with `DO_NOT_TRACK=1`).
+Install counts show up on skills.sh —
+[gauntlet](https://www.skills.sh/usmanbuk/skills/gauntlet) ·
+[bugfix](https://www.skills.sh/usmanbuk/skills/bugfix) — fed by the `skills`
+CLI's anonymous install telemetry (opt out with `DO_NOT_TRACK=1`).
 
 ## Skills
 
